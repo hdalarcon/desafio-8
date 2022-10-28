@@ -1,0 +1,4 @@
+#mensajes{
+    overflow-y: scroll;
+    max-height: 200px;
+}
